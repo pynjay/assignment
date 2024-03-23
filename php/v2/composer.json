@@ -1,0 +1,17 @@
+{
+    "name": "php/v2",
+    "description": "test assignment",
+    "autoload": {
+        "psr-4": {
+            "Php\\V2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vadim Korchagin"
+        }
+    ],
+    "require": {
+        "php": "^7.4"
+    }
+}
